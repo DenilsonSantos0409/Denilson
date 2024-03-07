@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-compatible" content="IE=edge">
+        <meta name="vieport" content="width=device=width, initial-scale=1.0">
+        <title>Halaman Judul</title>
+<head>
+<body>
+    <h1>Denilson Redentor Antonio Dos Santos</h1>
+    <p>Nama saya Denilson Redentor Antonio Dos Santos biasa di panggil Deni atau Eden umur saya 20 tahun saya lahir di Dili ibu kota Timor Leste di tanggal 04-09-2003 dan sekarang saya kuliah di Bali di Univertitas Pendidikan Nasional atau UNDIKNAS di fakultas teknik informatika dan jurusan teknologi informasi anggkatan 2022.</p>
+
+    <h2>Pendidikan</h2>
+    <p>Saat ini saya sedang menempuh semestre keempat di fakultas teknik informatika. Saya mengambil jurusan teknologi informasi dan teknologi informasi merupakan jurusan yang memplajari solusi-solusi pada teknologi komputer.</p>
+    
+<body>
+    <h2>Social media</h2>
+    <p>Saya saat ini aktif di social media cuman untuk memrpeluas pertemanan dan memperoleh informasi.</p>
+    <p>salah satu media social yang saya sering pakai yaitu <a href ></a></p>
+
+<html>
